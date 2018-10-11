@@ -15,7 +15,7 @@ public class loading extends javax.swing.JFrame {
      */
     public loading() {
         initComponents();
-        //test commit24
+        //bug
     }
 
     /**
